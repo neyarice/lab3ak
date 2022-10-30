@@ -1,0 +1,7 @@
+# ninja log v5
+2	260	1667160051943932629	CMakeFiles/Calculator.dir/src/funcs.cpp.o	643cf254681d81b5
+1	261	1667160051943932629	CMakeFiles/Calc.dir/src/funcs.cpp.o	6384a8613add0f3b
+0	263	1667160051947933246	CMakeFiles/Calc.dir/src/calculator.cpp.o	3604ee498cf65e48
+1	264	1667160051947933246	CMakeFiles/Calculator.dir/src/calculator.cpp.o	55a8ee05435494c2
+264	325	1667160052007942517	Calculator	31c7acf8519b8471
+263	616	1667160052299987930	libCalc.a	452b38ffc9fee3e

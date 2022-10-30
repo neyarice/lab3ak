@@ -1,0 +1,4 @@
+/home/vladislav/docs/lab3/build/CMakeFiles/Calc.dir
+/home/vladislav/docs/lab3/build/CMakeFiles/Calculator.dir
+/home/vladislav/docs/lab3/build/CMakeFiles/edit_cache.dir
+/home/vladislav/docs/lab3/build/CMakeFiles/rebuild_cache.dir
